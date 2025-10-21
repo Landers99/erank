@@ -6,8 +6,7 @@
   "scripts": {
     "dev:api": "pnpm --filter ./apps/api dev",
     "dev:web": "pnpm --filter ./apps/web dev",
-    "test": "pnpm -r test",
-    "postinstall": "pnpm -r install"
+    "test": "pnpm -r test"
   },
   "keywords": [],
   "author": "",
